@@ -40,14 +40,14 @@
     }
     header .nome{
         text-shadow: 2px 2px 10px #a13ba1;
-        color: rgb(0 0 0);
+        color: rgb(255, 255, 255);
     }
     .box{
         background-color: #39393947;
         border-color: rgb(0, 0, 0);
     }
     .prod h1{
-        color: black;
+        color: rgb(255, 255, 255);
         text-shadow: 2px 2px 10px white;
     }
     .box .prod{
