@@ -63,7 +63,7 @@ header{
 }
 .box{
     transition: 1s;
-    width: 90%;
+    max-width: 92%;
     justify-content: center;
     display: flex;
     flex-wrap: wrap;
